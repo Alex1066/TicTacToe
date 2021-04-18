@@ -1,0 +1,9 @@
+<resources>
+	<dimen name="margin_top">9.2dp</dimen>
+	<dimen name="margin_bottom">9.2dp</dimen>
+	<dimen name="outer_margin">6.5dp</dimen>
+	<dimen name="button_width_landscape">117.9dp</dimen>
+	<dimen name="button_height_landscape">117.9dp</dimen>
+	<dimen name="side_menu_landscape">104.8dp</dimen>
+	<dimen name="border_portrait">10.2dp</dimen>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="margin_top">7dp</dimen>
+	<dimen name="margin_bottom">7dp</dimen>
+	<dimen name="outer_margin">5dp</dimen>
+	<dimen name="border_portrait">7.8dp</dimen>
+<!--	<dimen name="button_width_portrait">112dp</dimen>-->
+<!--	<dimen name="button_height_portrait">112dp</dimen>-->
+	<dimen name="button_width_landscape">90dp</dimen>
+	<dimen name="button_height_landscape">90dp</dimen>
+	<dimen name="side_menu_landscape">80dp</dimen>
+</resources>
